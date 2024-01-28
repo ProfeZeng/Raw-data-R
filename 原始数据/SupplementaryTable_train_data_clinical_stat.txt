@@ -1,0 +1,8 @@
+type	value	sample_num
+Age	Age<60	165
+Age	Age>=60	198
+Sex	FEMALE	118
+Sex	MALE	245
+Stage	III	78
+Stage	IV	3
+Stage	NA	282
